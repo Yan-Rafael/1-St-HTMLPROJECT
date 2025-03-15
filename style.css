@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@800;1200&display=swap');
 
 
 
@@ -59,8 +59,8 @@ header img {
 
 
 header h1 {
-    font-size: 2em;
-    font-weight: 700; 
+    font-size: 4em;
+    font-weight: 1000; 
 }
 
 
@@ -116,7 +116,7 @@ img {
 
 
 .destaques article img {
-    max-width: 350px; 
+    max-width: 500px;
 }
 
 
