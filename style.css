@@ -36,7 +36,6 @@ header {
     align-items: center;
     
 }
-
 header img {
     display: flex;
     width: 150px; 
@@ -54,7 +53,7 @@ nav {
     align-items: center;
     text-align: center;
     flex-direction: column;
-    margin-right: 400px;
+    margin-right: 300px;
     
 }
 nav ul a{
@@ -88,8 +87,6 @@ nav ul a:hover {
     border-radius: 8px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
-
-
 .destaques article {
     margin-top: 10px;
     text-align: center; 
@@ -105,8 +102,21 @@ nav ul a:hover {
 }
 .conteiner_lateral{
     width: 20%;
-    
-    display: flex;
+}
+.btn-topo {
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    width: 40px;
+    height: 40px;
+    background-color: #f39c12;
+    color: white;
+    border-radius: 50%;
+    font-size: 26px;
+    line-height: 40px;
+    text-align: center;
+    z-index: 999;
+    text-decoration: none;
 }
 img {
     width: 80%; 
